@@ -1,0 +1,18 @@
+C:\Users\Josh\Documents\Visual Studio 2008\Projects\Servly\Servly\bin\Debug\Servly.exe
+C:\Users\Josh\Documents\Visual Studio 2008\Projects\Servly\Servly\bin\Debug\Servly.pdb
+C:\Users\Josh\Documents\Visual Studio 2008\Projects\Servly\Servly\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Josh\Documents\Visual Studio 2008\Projects\Servly\Servly\obj\Debug\Servly.exe
+C:\Users\Josh\Documents\Visual Studio 2008\Projects\Servly\Servly\obj\Debug\Servly.pdb
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\Servly\Servly\obj\Debug\Servly.exe
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\Servly\Servly\obj\Debug\Servly.pdb
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\Servly\Servly\bin\Debug\Servly.exe
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\Servly\Servly\bin\Debug\Servly.pdb
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\Servly\Servly\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\josh\Desktop\Servly\Servly\bin\Debug\Servly.exe
+C:\Users\josh\Desktop\Servly\Servly\bin\Debug\Servly.pdb
+C:\Users\josh\Desktop\Servly\Servly\bin\Debug\Interop.WUApiLib.dll
+C:\Users\josh\Desktop\Servly\Servly\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\josh\Desktop\Servly\Servly\obj\Debug\Interop.WUApiLib.dll
+C:\Users\josh\Desktop\Servly\Servly\obj\Debug\Servly.csproj.ResolveComReference.cache
+C:\Users\josh\Desktop\Servly\Servly\obj\Debug\Servly.exe
+C:\Users\josh\Desktop\Servly\Servly\obj\Debug\Servly.pdb

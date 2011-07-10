@@ -1,0 +1,6 @@
+C:\Users\josh\Desktop\Servly\Servly\obj\x86\Release\Interop.WUApiLib.dll
+C:\Users\josh\Desktop\Servly\Servly\obj\x86\Release\Servly.csproj.ResolveComReference.cache
+C:\Users\josh\Desktop\Servly\Servly\bin\x86\Release\Servly.exe
+C:\Users\josh\Desktop\Servly\Servly\bin\x86\Release\Interop.WUApiLib.dll
+C:\Users\josh\Desktop\Servly\Servly\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\josh\Desktop\Servly\Servly\obj\x86\Release\Servly.exe

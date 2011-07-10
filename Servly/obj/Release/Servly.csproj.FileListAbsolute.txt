@@ -1,0 +1,13 @@
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\Servly\Servly\bin\Release\Servly.exe
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\Servly\Servly\bin\Release\Servly.pdb
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\Servly\Servly\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\Servly\Servly\obj\Release\Servly.exe
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\Servly\Servly\obj\Release\Servly.pdb
+C:\Users\josh\Desktop\Servly\Servly\obj\Release\Interop.WUApiLib.dll
+C:\Users\josh\Desktop\Servly\Servly\obj\Release\Servly.csproj.ResolveComReference.cache
+C:\Users\josh\Desktop\Servly\Servly\obj\Release\Servly.exe
+C:\Users\josh\Desktop\Servly\Servly\obj\Release\Servly.pdb
+C:\Users\josh\Desktop\Servly\Servly\bin\Release\Servly.exe
+C:\Users\josh\Desktop\Servly\Servly\bin\Release\Servly.pdb
+C:\Users\josh\Desktop\Servly\Servly\bin\Release\Interop.WUApiLib.dll
+C:\Users\josh\Desktop\Servly\Servly\obj\Release\ResolveAssemblyReference.cache
